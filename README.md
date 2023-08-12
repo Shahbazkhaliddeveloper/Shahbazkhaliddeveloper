@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on MERN Stack Development.
+-  🌱 I’m currently learning Typescript.
+-  👯 I’m looking to collaborate on Open Source Contribution.
